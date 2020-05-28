@@ -16,6 +16,7 @@ output the result.
 
 # Milestones
 Import the needed packages.
+Currently working on translating program procedures into Spanish.
 
 # Requirements
 Python, 
