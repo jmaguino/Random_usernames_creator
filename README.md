@@ -6,7 +6,7 @@ For this program, we will import the requests, random, and randint modules.
 We will use a url with the list of words.
 
 # Technical Summary
-Back end language: Python
+Back end language: Python, 
 Web browser: Google Chrome
 
 # Features
