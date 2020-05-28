@@ -1,7 +1,7 @@
 # Random_usernames_creator
 
 # Project Summary
-This small program is used to create usernames from a list of random words.
+This program is used to create usernames from a list of random words.
 For this program, we will import the requests, random, and randint modules.
 We will use a url with the list of words.
 
